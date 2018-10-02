@@ -16,7 +16,7 @@ html {
 }
 
 .polaroid:nth-child(1) {
-  transform: translate(75%, 70%) rotate(-20deg);
+  transform: translate(75%, 60%) rotate(-15deg);
 }
 
 .polaroid:nth-child(2) {
@@ -25,7 +25,7 @@ html {
 }
 
 .polaroid:nth-child(3) {
-  transform: translate(150%, 60%) rotate(35deg);
+  transform: translate(155%, 60%) rotate(32.5deg);
 }
 
 .polaroid > img {
@@ -47,7 +47,7 @@ html {
 }
 
 .polaroid:nth-child(1):hover {
-  transform: translate(75%, 70%);
+  transform: translate(72.5%, 60%);
 }
 
 .polaroid:nth-child(2):hover {
